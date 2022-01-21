@@ -6,14 +6,11 @@
  .my-work{
     width: 30%;
     position: relative;
-    transition: all ease-in 0.3s;
     margin-bottom: 15px;
  }
 
  .my-work:hover .sort-text{
     display: block;
-    transition: all ease 0.3s;
-    
  }
 
  .my-work:hover .sort-text h1, h3{
