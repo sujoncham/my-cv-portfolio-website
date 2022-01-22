@@ -15,7 +15,7 @@ body {
 }
 
 .container{
-	width: 980px;
+	width: 1200px;
 	margin: 0 auto;
 }
 
@@ -49,6 +49,7 @@ body {
 }
 .header-menu li a:hover{
 	background: #800080;
+	border-radius: 8px;
 }
 
 .slider{
