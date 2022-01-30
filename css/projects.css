@@ -11,6 +11,7 @@
     position: relative;
     margin-bottom: 30px;
     box-shadow: 5px 2px 8px 5px #888888;
+    transition: all 0.5s;
  }
 
  .my-work:hover .sort-text{
@@ -32,7 +33,7 @@
     top: 0;
     left:0;
     border: 2px solid #800080;
-    width: 92%;
+    width: 94%;
     height: 158px;
     background: #fffbf0;
     opacity: .8;
